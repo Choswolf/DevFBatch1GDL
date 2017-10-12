@@ -75,3 +75,7 @@ listan =[14,2,3,4,5,47]
 # print Comparacion(list2).compare_vocal(3)
 print Comparacion(listan).mult()
 print Comparacion(listan).distlista()
+
+# dasdd
+# dasd
+# asd
