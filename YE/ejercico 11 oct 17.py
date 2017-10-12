@@ -61,7 +61,11 @@ class Comparacion(object):
             else:
                 acomulado = acomulado * i
         return acomulado
-    #
+    # #ejercicio 6 definir un histograma procedimiento() que tome una lista de numeros enteros e imprima un histogramaen
+    #     la pantalla. Ejemplo: procedimiento([4,9 ,7]) deberia imprimir lo siguiente
+    #     ****
+    #     *********
+    #     *******
     #
 
 listas=[3,1,5,7,'abc',3,131]
